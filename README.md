@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MEHRACH Chaimaa</h1>
 <h3 align="center">A passionate Software engineer from Morocco</h3> 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Animated GIF" width="225">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimaamehrach&label=Profile%20views&color=0e75b6&style=flat" alt="chaimaamehrach" /> </p>
 
