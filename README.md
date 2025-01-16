@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MEHRACH Chaimaa</h1>
-<h3 align="center">A passionate Software engineer from Morocco</h3>
+<h3 align="center">A passionate Software engineer from Morocco</h3> <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR3OHBtNmhycW1kMXp3b3R6dGtmcTMwaDZ6Y3R0aGFweXY2OHJoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimaamehrach&label=Profile%20views&color=0e75b6&style=flat" alt="chaimaamehrach" /> </p>
 
